@@ -1,18 +1,13 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  author:
+  name: "Shova Rani"
+  bio: "Final-year Civil Engineering student at BUET with research interests in sustainable infrastructure, urban hydrology, and resilient construction systems."
+  location: "Dhaka, Bangladesh"
+  employer: "Bangladesh University of Engineering and Technology (BUET)"
 
 Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+    email: "shovarani2021@gmail.com"
+  github: "shova-rani"
+  linkedin: "shova-rani"
